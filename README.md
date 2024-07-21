@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iperezq
 - 👀 I’m interested in software development and data engineering
 - 💞️ I’m looking to collaborate on java, nodejs or golang
-- 📫 Reach me at ignaciopq@gmail.com
+- 📫 Reach me at ignacio.perez.alu@gmail.com
 
 <!---
 iperezq/iperezq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
